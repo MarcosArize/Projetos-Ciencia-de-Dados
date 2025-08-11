@@ -43,6 +43,8 @@ Análise de Dados: Exploração de dados da temporada 2023-2024 da NBA. Visualiz
 Pré-processamento: Remoção de jogadores duplicados e tratamento de valores nulos, preenchendo-os com base em outras colunas relacionadas. Tratamento de outliers em estatísticas-chave para melhorar a qualidade dos dados.
 
 Modelagem: Implementação de uma DecisionTreeClassifier para classificar o eFG%. O modelo é treinado para interpretar diretamente as regras de decisão, o que é valioso para técnicos e analistas. A árvore de decisão gerada é visualizada para facilitar a compreensão do modelo.
+
+
 ---
 
 ## 🚀 Tecnologias Utilizadas
