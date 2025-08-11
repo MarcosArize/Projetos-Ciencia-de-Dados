@@ -52,7 +52,8 @@ O objetivo é construir um classificador interpretável que, a partir de estatí
 ## 📈 Principais insights
 - **FG%** emergiu como o preditor mais relevante — nó raiz com threshold em ~`0.449` separa muitos grupos.  
 - A árvore combina `FG%`, `PTS`, `FGA` e `3P` para definir perfis com maior probabilidade de `eFG%` acima da média (ex.: altos `FG%` com poucas tentativas de 3P podem indicar pivôs eficientes perto da cesta).  
-- A interpretabilidade da árvore facilita gerar recomendações táticas e perfis de scouting.
+- A interpretabilidade da árvore facilita gerar recomendações táticas e perfis de scouting para os times.
+- Conseguimos prever, com aproximadamente 85,6% de precisão, se os jogadores estão abaixo ou acima da média de eFG% da liga com base nos parâmetros selecionados.
 
 ---
 
@@ -67,3 +68,4 @@ O objetivo é construir um classificador interpretável que, a partir de estatí
 
 # abrir notebook
 jupyter notebook
+
