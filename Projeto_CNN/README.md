@@ -1,52 +1,89 @@
-Reconhecimento de Dígitos com Rede Neural Convolucional (CNN)
-Este projeto demonstra a construção e o treinamento de uma Rede Neural Convolucional (CNN) para classificar imagens de dígitos manuscritos do famoso dataset MNIST.  Utilizando Keras e TensorFlow, o modelo aprende a identificar dígitos de 0 a 9 com alta precisão.
+# Reconhecimento de Dígitos Manuscritos com CNN
+Projeto de Deep Learning que implementa uma Rede Neural Convolucional (CNN) para classificar imagens de dígitos manuscritos do dataset MNIST.
 
-🚀 O que foi feito:
-Preparação dos Dados:
+## 📊 Etapas do Projeto
 
-O dataset MNIST foi carregado. 
+1.**Carregamento e Preparação dos Dados**
 
-As imagens foram normalizadas para valores entre 0 e 1 para otimizar o treinamento. 
-
-
-Os dados foram remodelados para o formato exigido pela CNN. 
-
-Os rótulos foram convertidos para o formato 
-
-one-hot encoding. 
+Importação do dataset MNIST, já dividido em conjuntos de treino e teste.
 
 
-Arquitetura do Modelo:
+Normalização dos valores dos pixels das imagens para a escala de 0 a 1.
 
-Foi criada uma CNN sequencial simples, composta por:
+Remodelagem das imagens para o formato 
 
-Duas camadas de convolução (
+[amostras, altura, largura, canais] adequado para a CNN.
 
-Conv2D) com ativação ReLU. 
+Aplicação de One-Hot Encoding nos rótulos de classificação.
 
 
-Duas camadas de 
+2.**Análise e Visualização**
 
-MaxPooling2D para reduzir a dimensionalidade. 
+Exibição das 10 primeiras imagens do conjunto de treinamento para inspeção visual dos dados.
 
+
+3.**Modelagem da CNN**
+
+A arquitetura do modelo 
+
+Sequential  foi dividida em duas partes principais:
+
+**Extração de Características**: Composta por dois blocos convolucionais para aprender os padrões das imagens.
+
+O primeiro bloco contém uma camada 
+
+Conv2D (32 filtros, ativação ReLU) seguida por 
+
+MaxPooling2D.
+
+O segundo bloco contém uma camada 
+
+Conv2D (64 filtros, ativação ReLU) seguida por 
+
+MaxPooling2D.
+
+**Classificação**: Composta por camadas densas para realizar a previsão final.
 
 Uma camada 
 
-Flatten para preparar os dados para a classificação. 
+Flatten transforma os dados para a entrada das camadas densas.
 
-Duas camadas densas (
+Uma camada 
 
-Dense), sendo a última uma camada de saída com ativação softmax para as 10 classes de dígitos. 
+Dense com 64 neurônios e ativação ReLU atua como uma camada oculta.
 
-Treinamento e Avaliação:
+A camada final 
 
-O modelo foi compilado com o otimizador "adam" e a função de perda "categorical_crossentropy". 
+Dense com 10 neurônios e ativação softmax classifica a imagem em um dos 10 dígitos.
 
-O treinamento foi realizado por 5 épocas. 
+4.**Treinamento e Avaliação**
 
-A acurácia do modelo foi acompanhada tanto no conjunto de treino quanto no de validação. 
+Compilação do modelo utilizando o otimizador 
 
-🏆 Resultados
-O modelo alcançou uma excelente acurácia de 
+Adam e a função de perda categorical_crossentropy.
 
-98,94% no conjunto de testes, demonstrando sua eficácia na tarefa de classificação de imagens. O gráfico de treinamento visualiza a convergência da acurácia ao longo das épocas. 
+Treinamento do modelo por 5 épocas com um 
+
+batch_size de 128.
+
+Métrica de avaliação: 
+
+Acurácia ≈ 0,9894 no conjunto de teste.
+
+Análise de Performance
+
+Visualização da curva de acurácia de treino e validação ao longo das épocas para monitorar o aprendizado e evitar overfitting.
+
+
+# 📈 Resultados
+O modelo demonstrou alta performance, alcançando **98,94% de acurácia**  ao classificar os dígitos no conjunto de dados de teste. O gráfico de treinamento mostra uma excelente convergência entre as curvas de treino e validação, indicando um bom ajuste do modelo.
+
+
+# 🛠 Tecnologias Utilizadas
+Python
+TensorFlow / Keras 
+Numpy 
+Matplotlib
+Numpy 
+
+Matplotlib 
