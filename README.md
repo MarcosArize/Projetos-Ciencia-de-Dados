@@ -56,4 +56,4 @@ Modelagem: Implementação de uma DecisionTreeClassifier para classificar o eFG%
 
 ## 📌 Sobre
 Este repositório é parte do meu portfólio de Ciência de Dados.  
-Conecte-se comigo no [LinkedIn](https://www.linkedin.com/) para trocar ideias!
+Conecte-se comigo no [LinkedIn](www.linkedin.com/in/marcosarize) para trocar ideias!
