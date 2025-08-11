@@ -20,7 +20,7 @@ Inclui análise exploratória, pré-processamento, visualizações, modelagem e 
 ### 2. [Exemplo Básico de Rede Neural Convolucional](./Projeto_CNN/README.md)
 Este projeto é uma implementação de uma CNN (Rede Neural Convolucional) para reconhecimento de dígitos manuscritos utilizando o dataset MNIST. O foco é demonstrar a estrutura de camadas convolucionais, de pooling e densas.
 
-Principais técnicas:
+**Principais técnicas:**
 
 Pandas, Numpy, Matplotlib, Keras 
 
@@ -30,19 +30,18 @@ Arquitetura da CNN: camadas
 
 Conv2D, MaxPooling2D, Flatten e Dense 
 
-Acurácia no conjunto de teste: ≈ 0.9894
+**Acurácia no conjunto de teste: ≈ 0.9894**
+
 ---
 
-### 3. [Análise de Dados NBA](./Projeto_NBA/README.md)
-Este projeto utiliza uma Árvore de Decisão para classificar jogadores da NBA com base em suas estatísticas. O objetivo é determinar se a porcentagem efetiva de arremessos de campo (eFG%) de um jogador está acima ou abaixo da média. O projeto inclui análise exploratória, pré-processamento de dados e a implementação de um modelo de aprendizado de máquina supervisionado.
+### 3. [Análise de Dados NBA](./Projeto_NBA/README.md)  
+Análise da **eficiência de arremessos (eFG%)** e classificação se um jogador está acima/abaixo da média usando estatísticas por jogo.
 
-Principais técnicas:
-
-Análise de Dados: Exploração de dados da temporada 2023-2024 da NBA. Visualização de distribuições de estatísticas como PTS, FG% e eFG% através de boxplots e histogramas.
-
-Pré-processamento: Remoção de jogadores duplicados e tratamento de valores nulos, preenchendo-os com base em outras colunas relacionadas. Tratamento de outliers em estatísticas-chave para melhorar a qualidade dos dados.
-
-Modelagem: Implementação de uma DecisionTreeClassifier para classificar o eFG%. O modelo é treinado para interpretar diretamente as regras de decisão, o que é valioso para técnicos e analistas. A árvore de decisão gerada é visualizada para facilitar a compreensão do modelo.
+- **Dados:** temporada 2023–2024 (28-11-2023 a 03-01-2024) — **538 × 29**.  
+- **Objetivo:** prever se o eFG% de um jogador é acima da média.  
+- **Features principais:** `PTS`, `FG`, `FG%`, `FGA`, `3P`.  
+- **Modelo:** `DecisionTreeClassifier` (interpretável) — inclui EDA, tratamento de outliers e visualização da árvore.  
+- **Ferramentas:** Python, Pandas, Matplotlib/Seaborn, scikit-learn.
 
 
 ---
