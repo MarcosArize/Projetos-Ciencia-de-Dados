@@ -1,0 +1,251 @@
+id_candidato,nome_completo,email,data_nascimento,genero,cidade_residencia,nivel_formacao,anos_formacao,numero_de_vagas_candidatadas,idade
+1,Marcos Santos,marcos.santos@email.com,1990-05-12,Masculino,Salvador,Superior Completo,12.0,8,35
+2,Ana Oliveira,ana.oliveira@email.com,1988-03-21,Feminino,São Paulo,Mestrado,12.0,15,37
+3,Lucas Ferreira,lucas.ferreira@email.com,1995-07-30,Masculino,Rio de Janeiro,Superior Completo,7.0,5,30
+4,Carla Souza,carla.souza@email.com,1992-12-05,Feminino,Belo Horizonte,Superior Completo,10.0,9,33
+5,Paulo Lima,paulo.lima@email.com,1985-08-14,Masculino,Curitiba,Mestrado,15.0,18,40
+6,Fernanda Costa,fernanda.costa@email.com,1993-11-19,Feminino,Fortaleza,Superior Completo,9.0,7,32
+7,Rafael Almeida,rafael.almeida@email.com,1989-01-25,Masculino,Porto Alegre,Superior Completo,13.0,11,36
+8,Juliana Pereira,juliana.pereira@email.com,1991-04-08,Feminino,Recife,Mestrado,9.0,13,34
+9,Thiago Rodrigues,thiago.rodrigues@email.com,1994-09-12,Masculino,Manaus,Superior Completo,8.0,6,31
+10,Patrícia Martins,patricia.martins@email.com,1990-06-23,Feminino,Belém,Superior Completo,12.0,10,35
+11,Daniela Ribeiro,daniela.ribeiro@email.com,1987-02-17,Feminino,Salvador,Superior Completo,15.0,12,38
+12,Eduardo Nunes,eduardo.nunes@email.com,1992-10-10,Masculino,São Paulo,Mestrado,8.0,11,33
+13,Mariana Gomes,mariana.gomes@email.com,1995-01-03,Feminino,Rio de Janeiro,Superior Completo,7.0,4,30
+14,Vinicius Carvalho,vinicius.carvalho@email.com,1993-07-22,Masculino,Belo Horizonte,Superior Completo,9.0,8,32
+15,Camila Castro,camila.castro@email.com,1991-09-29,Feminino,Curitiba,Superior Completo,11.0,7,34
+16,Bruno Silva,bruno.silva@email.com,1988-05-05,Masculino,Fortaleza,Mestrado,12.0,16,37
+17,Aline Rocha,aline.rocha@email.com,1994-11-11,Feminino,Porto Alegre,Superior Completo,8.0,5,31
+18,Felipe Teixeira,felipe.teixeira@email.com,1990-03-19,Masculino,Recife,Superior Completo,12.0,10,35
+19,Renata Dias,renata.dias@email.com,1992-06-30,Feminino,Manaus,Mestrado,8.0,14,33
+20,Gustavo Lima,gustavo.lima@email.com,1989-08-25,Masculino,Belém,Superior Completo,13.0,11,36
+21,Isabela Fernandes,isabela.fernandes@email.com,1993-12-17,Feminino,Salvador,Superior Completo,9.0,6,32
+22,Leandro Souza,leandro.souza@email.com,1991-02-14,Masculino,São Paulo,Superior Completo,11.0,9,34
+23,Bianca Martins,bianca.martins@email.com,1990-10-01,Feminino,Rio de Janeiro,Superior Completo,12.0,10,35
+24,Rodrigo Pereira,rodrigo.pereira@email.com,1987-07-07,Masculino,Belo Horizonte,Mestrado,13.0,17,38
+25,Larissa Oliveira,larissa.oliveira@email.com,1995-09-20,Feminino,Curitiba,Superior Completo,7.0,5,30
+26,Caio Almeida,caio.almeida@email.com,1992-04-18,Masculino,Fortaleza,Superior Completo,10.0,8,33
+27,Tatiane Gomes,tatiane.gomes@email.com,1991-12-25,Feminino,Porto Alegre,Mestrado,9.0,12,34
+28,Ramon Carvalho,ramon.carvalho@email.com,1988-06-13,Masculino,Recife,Superior Completo,14.0,11,37
+29,Priscila Ribeiro,priscila.ribeiro@email.com,1990-08-09,Feminino,Manaus,Superior Completo,12.0,9,35
+30,Marcelo Teixeira,marcelo.teixeira@email.com,1993-05-21,Masculino,Belém,Superior Completo,9.0,7,32
+31,Vanessa Castro,vanessa.castro@email.com,1994-11-30,Feminino,Salvador,Mestrado,6.0,10,31
+32,Alexandre Lima,alexandre.lima@email.com,1989-01-05,Masculino,São Paulo,Superior Completo,13.0,12,36
+33,Carolina Fernandes,carolina.fernandes@email.com,1992-03-16,Feminino,Rio de Janeiro,Superior Completo,10.0,8,33
+34,Igor Silva,igor.silva@email.com,1990-09-22,Masculino,Belo Horizonte,Superior Completo,12.0,11,35
+35,Sabrina Souza,sabrina.souza@email.com,1991-06-14,Feminino,Curitiba,Superior Completo,11.0,7,34
+36,Matheus Martins,matheus.martins@email.com,1988-12-28,Masculino,Fortaleza,Mestrado,12.0,15,37
+37,Juliana Dias,juliana.dias@email.com,1993-07-07,Feminino,Porto Alegre,Superior Completo,9.0,6,32
+38,André Pereira,andre.pereira@email.com,1990-02-19,Masculino,Recife,Superior Completo,12.0,10,35
+39,Aline Oliveira,aline.oliveira@email.com,1992-10-05,Feminino,Manaus,Mestrado,8.0,13,33
+40,Ricardo Gomes,ricardo.gomes@email.com,1991-04-23,Masculino,Belém,Superior Completo,11.0,9,34
+41,Fernanda Carvalho,fernanda.carvalho@email.com,1994-12-12,Feminino,Salvador,Superior Completo,8.0,7,31
+42,Rafael Santos,rafael.santos@email.com,1989-05-11,Masculino,São Paulo,Superior Completo,10.0,8,36
+43,Patrícia Oliveira,patricia.oliveira@email.com,1993-03-09,Feminino,Rio de Janeiro,Mestrado,12.0,10,32
+44,Lucas Dias,lucas.dias@email.com,1990-08-17,Masculino,Belo Horizonte,Superior Completo,12.0,16,35
+45,Camila Martins,camila.martins@email.com,1991-11-29,Feminino,Curitiba,Superior Completo,11.0,9,34
+46,Bruno Gomes,bruno.gomes@email.com,1988-06-02,Masculino,Fortaleza,Superior Completo,9.0,7,37
+47,Carla Lima,carla.lima@email.com,1992-01-18,Feminino,Porto Alegre,Superior Completo,12.0,10,33
+48,Diego Fernandes,diego.fernandes@email.com,1993-09-05,Masculino,Recife,Mestrado,10.0,8,32
+49,Juliana Souza,juliana.souza@email.com,1991-07-23,Feminino,Manaus,Superior Completo,6.0,11,34
+50,Felipe Martins,felipe.martins@email.com,1990-05-14,Masculino,Belém,Superior Completo,15.0,13,35
+51,Bianca Lima,bianca.lima@email.com,1994-10-30,Feminino,Salvador,Superior Completo,9.0,14,31
+52,Gustavo Santos,gustavo.santos@email.com,1989-02-26,Masculino,São Paulo,Superior Completo,12.0,10,36
+53,Aline Carvalho,aline.carvalho@email.com,1992-08-08,Feminino,Rio de Janeiro,Mestrado,10.0,8,33
+54,Ramon Dias,ramon.dias@email.com,1993-12-02,Masculino,Belo Horizonte,Superior Completo,12.0,11,32
+55,Larissa Martins,larissa.martins@email.com,1991-03-11,Feminino,Curitiba,Superior Completo,9.0,7,34
+56,Daniel Souza,daniel.souza@email.com,1990-09-29,Masculino,Fortaleza,Superior Completo,11.0,9,35
+57,Isabela Pereira,isabela.pereira@email.com,1992-06-16,Feminino,Porto Alegre,Superior Completo,12.0,10,33
+58,Leandro Oliveira,leandro.oliveira@email.com,1988-11-20,Masculino,Recife,Superior Completo,14.0,12,37
+59,Mariana Carvalho,mariana.carvalho@email.com,1993-05-04,Feminino,Manaus,Mestrado,10.0,7,32
+60,Thiago Martins,thiago.martins@email.com,1991-01-27,Masculino,Belém,Superior Completo,7.0,11,34
+61,Patrícia Lima,patricia.lima@email.com,1990-07-15,Feminino,Salvador,Superior Completo,11.0,9,35
+62,Rafael Oliveira,rafael.oliveira@email.com,1992-03-19,Masculino,São Paulo,Superior Completo,12.0,10,33
+63,Camila Souza,camila.souza@email.com,1994-09-28,Feminino,Rio de Janeiro,Superior Completo,9.0,7,31
+64,Eduardo Martins,eduardo.martins@email.com,1989-12-12,Masculino,Belo Horizonte,Mestrado,10.0,8,36
+65,Juliana Lima,juliana.lima@email.com,1991-04-05,Feminino,Curitiba,Superior Completo,12.0,10,34
+66,Bruno Carvalho,bruno.carvalho@email.com,1990-10-11,Masculino,Fortaleza,Superior Completo,12.0,16,35
+67,Aline Santos,aline.santos@email.com,1993-08-23,Feminino,Porto Alegre,Superior Completo,11.0,9,32
+68,Lucas Oliveira,lucas.oliveira@email.com,1992-01-07,Masculino,Recife,Superior Completo,9.0,7,33
+69,Fernanda Martins,fernanda.martins@email.com,1990-06-29,Feminino,Manaus,Superior Completo,12.0,10,35
+70,Gustavo Carvalho,gustavo.carvalho@email.com,1988-09-18,Masculino,Belém,Mestrado,10.0,8,37
+71,Bianca Santos,bianca.santos@email.com,1991-12-15,Feminino,Salvador,Superior Completo,6.0,11,34
+72,Ramon Oliveira,ramon.oliveira@email.com,1993-03-27,Masculino,São Paulo,Superior Completo,15.0,13,32
+73,Larissa Souza,larissa.souza@email.com,1990-08-06,Feminino,Rio de Janeiro,Superior Completo,9.0,14,35
+74,Diego Martins,diego.martins@email.com,1992-05-22,Masculino,Belo Horizonte,Superior Completo,12.0,10,33
+75,Tatiane Oliveira,tatiane.oliveira@email.com,1994-11-08,Feminino,Curitiba,Mestrado,10.0,8,31
+76,Marcio Almeida,marcio.almeida@email.com,1987-03-15,Masculino,São Paulo,Superior Completo,12.0,11,38
+77,Larissa Rocha,larissa.rocha@email.com,1991-06-22,Feminino,Rio de Janeiro,Mestrado,9.0,7,34
+78,Gustavo Freitas,gustavo.freitas@email.com,1990-11-03,Masculino,Belo Horizonte,Superior Completo,11.0,9,35
+79,Camila Azevedo,camila.azevedo@email.com,1992-02-18,Feminino,Curitiba,Superior Completo,12.0,10,33
+80,Bruno Correia,bruno.correia@email.com,1988-09-10,Masculino,Fortaleza,Mestrado,14.0,12,37
+81,Patrícia Santos,patricia.santos@email.com,1993-12-07,Feminino,Porto Alegre,Superior Completo,10.0,8,32
+82,Lucas Cardoso,lucas.cardoso@email.com,1991-04-12,Masculino,Recife,Superior Completo,6.0,11,34
+83,Juliana Teixeira,juliana.teixeira@email.com,1990-08-25,Feminino,Manaus,Superior Completo,15.0,13,35
+84,Rafael Nogueira,rafael.nogueira@email.com,1989-05-30,Masculino,Belém,Superior Completo,9.0,14,36
+85,Aline Fernandes,aline.fernandes@email.com,1992-01-14,Feminino,Salvador,Mestrado,12.0,10,33
+86,Diego Lima,diego.lima@email.com,1993-07-08,Masculino,São Paulo,Superior Completo,10.0,8,32
+87,Bianca Rocha,bianca.rocha@email.com,1991-10-20,Feminino,Rio de Janeiro,Superior Completo,12.0,11,34
+88,André Carvalho,andre.carvalho@email.com,1990-03-03,Masculino,Belo Horizonte,Superior Completo,9.0,7,35
+89,Fernanda Lima,fernanda.lima@email.com,1988-06-27,Feminino,Curitiba,Superior Completo,11.0,9,37
+90,Marcelo Souza,marcelo.souza@email.com,1992-09-11,Masculino,Fortaleza,Mestrado,12.0,10,33
+91,Tatiane Oliveira,tatiane.oliveira@email.com,1993-12-21,Feminino,Porto Alegre,Superior Completo,14.0,12,32
+92,Ricardo Martins,ricardo.martins@email.com,1990-02-16,Masculino,Recife,Superior Completo,10.0,8,35
+93,Isabela Santos,isabela.santos@email.com,1991-05-05,Feminino,Manaus,Superior Completo,7.0,11,34
+94,Thiago Gomes,thiago.gomes@email.com,1989-08-19,Masculino,Belém,Mestrado,11.0,9,36
+95,Carla Lima,carla.lima@email.com,1992-11-03,Feminino,Salvador,Superior Completo,12.0,10,33
+96,Vinicius Rodrigues,vinicius.rodrigues@email.com,1990-01-29,Masculino,São Paulo,Superior Completo,9.0,7,35
+97,Juliana Martins,juliana.martins@email.com,1993-06-14,Feminino,Rio de Janeiro,Superior Completo,10.0,8,32
+98,Leonardo Almeida,leonardo.almeida@email.com,1991-09-02,Masculino,Belo Horizonte,Superior Completo,12.0,10,34
+99,Camila Fernandes,camila.fernandes@email.com,1990-12-18,Feminino,Curitiba,Mestrado,12.0,16,35
+100,Ramon Souza,ramon.souza@email.com,1988-04-22,Masculino,Fortaleza,Superior Completo,11.0,9,37
+101,João da Silva,joao.silva@example.com,1990-05-15,Masculino,São Paulo,Superior Completo,4.0,3,35
+102,   maria souza,maria.souza@yahoo.com.br,1992-08-20,Feminino,Rio de Janeiro,Ensino Médio,0.0,1,33
+103,Carlos Pereira,carlos.pereira@gmail.com,1985-03-10,Masculino,Belo Horizonte,Pós-graduação,2.0,5,40
+104,ANA OLIVEIRA,ana.oliveira@hotmail.com,1995-11-25,Feminino,Salvador,Superior Completo,5.0,2,30
+105,Pedro Santos,pedro.santos@example.com,1988-07-12,Masculino,Brasília,Mestrado,6.0,8,37
+106,Juliana Costa,juliana.costa@gmail.com,1993-01-30,Feminino,Curitiba,Superior Completo,4.0,0,32
+107,fernando almeida,fernando.almeida@empresa.com.br,1980-09-05,Masculino,Porto Alegre,Doutorado,8.0,10,45
+108,Beatriz Lima,Não informou o email,1998-04-18,Feminino,Recife,Ensino Médio,0.0,1,27
+109,Lucas Martins,lucas.martins@yahoo.com,1991-12-02,Masculino,Fortaleza,Superior Completo,4.0,4,34
+110,Gabriela Ribeiro,Não informou o tipo de email,1994-06-28,Feminino,São Luís,Superior Incompleto,2.0,2,31
+111,Rafael Ferreira,rafael.ferreira@gmail.com,1987-02-14,Masculino,Goiânia,Superior Completo,5.0,6,38
+112,Larissa Gonçalves,larissa.g@hotmail.com,1996-10-08,Feminino,Belém,Técnico,2.0,3,29
+113,   Matheus Rodrigues,matheus.rodrigues@example.com,1989-08-22,Masculino,Manaus,Superior Completo,4.0,1,36
+114,Amanda Alves,amanda.alves@yahoo.com.br,1997-03-17,Feminino,Campo Grande,Ensino Médio,0.0,0,28
+115,Bruno Barbosa,bruno.b@gmail.com,1984-11-09,Masculino,João Pessoa,Mestrado,7.0,9,41
+116,Camila Castro,camila.castro@empresa.com,1992-05-01,Feminino,Cuiabá,Superior Completo,5.0,5,33
+117,Diego Dias,diego.dias@hotmail.com,1986-01-26,Masculino,Florianópolis,Pós-graduação,1.0,7,39
+118,Eduarda Rocha,eduarda.rocha@gmail.com,1999-09-11,Feminino,Porto Velho,Não informou o nível de formação,0.0,2,26
+119,Felipe Freitas,felipe.freitas@example.com,1990-07-07,Masculino,Teresina,Superior Completo,4.0,3,35
+120,Giovanna Gomes,giovanna.gomes@yahoo.com,1993-02-23,Feminino,Aracaju,Ensino Médio,0.0,1,32
+121,Heitor Pinto,heitor.pinto@gmail.com,1983-10-14,Masculino,Natal,Doutorado,10.0,12,42
+122,Isabela Jesus,isabela.jesus@hotmail.com,1995-04-03,Feminino,Maceió,Superior Completo,4.0,4,30
+123,João V. Souza,joao.v.souza@example.com,1988-12-29,Masculino,Vitória,Mestrado,6.0,8,37
+124,Karina Nogueira,karina.nogueira@gmail.com,1996-08-15,Feminino,Palmas,Técnico,3.0,2,29
+125,Leonardo Xavier,Não informou o tipo de email,1991-06-09,Masculino,Boa Vista,Superior Completo,5.0,6,34
+126,Manuela Barros,manuela.barros@yahoo.com.br,1994-01-05,Feminino,Rio Branco,Superior Completo,4.0,3,31
+127,Nicolas Cunha,Não informou o email,1982-03-21,Masculino,Macapá,Pós-graduação,2.0,9,43
+128,Olivia Duarte,olivia.duarte@gmail.com,1997-11-19,Feminino,São Paulo,Ensino Médio,0.0,0,28
+129,Paulo Mendes,paulo.mendes@hotmail.com,1985-09-02,Masculino,São Paulo,Superior Completo,4.0,5,40
+130,Quintino Reis,quintino.reis@example.com,1979-07-20,Nao informado,Rio de Janeiro,Mestrado,7.0,11,46
+131,Raquel Sales,raquel.sales@gmail.com,1998-02-12,Feminino,Belo Horizonte,Superior Incompleto,3.0,1,27
+132,Samuel Tavares,samuel.tavares@yahoo.com,1990-10-27,Masculino,Curitiba,Superior Completo,4.0,4,35
+133,Tatiana Uchoa,tatiana.uchoa@empresa.com,1987-06-13,Feminino,POA,Doutorado,9.0,13,38
+134,Ulisses Vasconcelos,ulisses.v@gmail.com,1981-04-08,Masculino,Recife,Pós-graduação,2.0,8,44
+135,Valentina Werner,valentina.werner@hotmail.com,1996-12-24,Feminino,Santos,Técnico,2.0,2,29
+136,Washington Andrade,washington.a@example.com,1984-08-31,Masculino,Campinas,Superior Completo,5.0,6,41
+137,Xenia Bicalho,xenia.bicalho@gmail.com,1993-05-16,Feminino,Guarulhos,Mestrado,6.0,7,32
+138,Yago Campos,yago.campos@yahoo.com.br,1995-01-10,Masculino,Duque de Caxias,Ensino Médio,0.0,1,30
+139,Zelia Dantas,zelia.dantas@hotmail.com,1980-03-04,Feminino,São Gonçalo,Superior Completo,4.0,5,45
+140,Arthur Esteves,arthur.esteves@gmail.com,1992-11-28,Masculino,Nova Iguaçu,Superior Completo,4.0,3,33
+141,Bárbara Farias,barbara.farias@example.com,1997-09-21,Feminino,Osasco,Técnico,2.0,2,28
+142,Caio Gusmão,caiogusmao@gmail.com,1989-07-15,Masculino,Santo André,Pós-graduação,1.0,8,36
+143,Débora Henriques,Não informou o email,1994-04-09,Feminino,São Bernardo do Campo,Mestrado,7.0,9,31
+144,Enzo Ibanez,enzo.ibanez@hotmail.com,1999-02-01,Masculino,Jaboatão dos Guararapes,Ensino Médio,0.0,0,26
+145,Flávia Junqueira,flavia.junqueira@yahoo.com,1986-10-18,Feminino,Contagem,Doutorado,10.0,14,39
+146,Guilherme Lacerda,guilherme.lacerda@gmail.com,1991-08-23,Masculino,Juiz de Fora,Superior Completo,5.0,5,34
+147,Heloísa Montenegro,heloisa.m@empresa.com,1996-06-27,Feminino,Niterói,Superior Completo,4.0,4,29
+148,Igor Neves,Não informou o tipo de email,1983-04-12,Masculino,Uberlândia,Mestrado,6.0,10,42
+149,Júlia Queiroz,julia.queiroz@gmail.com,1998-01-06,Feminino,Sorocaba,Superior Completo,4.0,2,27
+150,Kléber Ramos,kleber.ramos@hotmail.com,1985-11-30,Masculino,Ribeirão Preto,Pós-graduação,2.0,7,40
+151,Lorena Santoro,lorena.santoro@yahoo.com.br,1993-09-04,Feminino,Aparecida de Goiânia,Ensino Médio,0.0,1,32
+152,Miguel Telles,miguel.telles@gmail.com,1988-07-09,Masculino,Vila Velha,Superior Completo,5.0,6,37
+153,Natália Viana,natalia.viana@example.com,1995-05-14,Feminino,Londrina,Superior Completo,4.0,3,30
+154,Otávio Wallner,otavio.w@hotmail.com,1982-03-19,Masculino,Joinville,Mestrado,8.0,11,43
+155,Priscila Xavier,priscila.xavier@gmail.com,1997-01-23,Feminino,Caxias do Sul,Técnico,3.0,2,28
+156,Ricardo Yoda,ricardo.yoda@empresa.com,1987-11-27,Masculino,Feira de Santana,Doutorado,9.0,13,38
+157,Sônia Zaganelli,sonia.zaganelli@yahoo.com,1980-09-01,Feminino,Blumenau,Pós-graduação,1.0,8,45
+158,Thiago Arantes,thiago.arantes@gmail.com,1994-07-06,Masculino,Franca,Superior Completo,4.0,4,31
+159,Úrsula Bastos,ursula.bastos@hotmail.com,1999-05-11,Feminino,Ponta Grossa,Ensino Médio,0.0,0,26
+160,Vinícius Carvalho,Não informou o email,1990-03-16,Masculino,Olinda,Superior Completo,5.0,5,35
+161,Wanessa Dutra,wanessa.dutra@gmail.com,1996-01-20,Feminino,Cascavel,Mestrado,7.0,9,29
+162,Yuri Esteves,yuri.esteves@example.com,1984-11-24,Masculino,Pelotas,Superior Completo,4.0,6,41
+163,Yasmin Fagundes,yasmin.fagundes@yahoo.com.br,1992-09-29,Feminino,Marília,Técnico,2.0,1,33
+164,Ziraldo Guedes,ziraldo.guedes@hotmail.com,1978-07-04,Masculino,Anápolis,Doutorado,12.0,15,47
+165,Agatha Henriques,agatha.h@gmail.com,1997-05-09,Feminino,Bauru,Pós-graduação,2.0,7,28
+166,Bento Inácio,bento.inacio@empresa.com,1989-03-14,Masculino,Vitória da Conquista,Superior Completo,5.0,4,36
+167,Ceci Jalles,ceci.jalles@example.com,1995-01-18,Feminino,Petrópolis,Superior Completo,4.0,3,30
+168,Dante Kramer,dante.kramer@gmail.com,1981-11-22,Masculino,Caruaru,Mestrado,6.0,10,44
+169,Elisa Lins,elisa.lins@yahoo.com,1993-09-26,Feminino,Montes Claros,Ensino Médio,0.0,1,32
+170,Fábio Meireles,fabio.meireles@hotmail.com,1986-07-01,Masculino,Canoas,Superior Completo,4.0,5,39
+171,Gael Nogueira,gael.nogueira@gmail.com,1998-05-06,Masculino,Campos dos Goytacazes,Técnico,2.0,2,27
+172,Helena Otero,helena.otero@example.com,1991-03-11,Feminino,São José dos Campos,Superior Incompleto,3.0,2,34
+173,Ícaro Pires,icaro.pires@gmail.com,1983-01-15,Masculino,Jundiaí,Pós-graduação,1.0,9,42
+174,Janaína Quintanilha,janaina.q@yahoo.com.br,1996-11-19,Feminino,Praia Grande,Superior Completo,4.0,3,29
+175,Luan Siqueira,luan.siqueira@hotmail.com,1988-09-23,Masculino,Diadema,Mestrado,7.0,8,37
+176,Melissa Tavares,melissa.tavares@gmail.com,1994-07-28,Feminino,Carapicuíba,Ensino Médio,0.0,0,31
+177,Noah Uchoa,noah.uchoa@empresa.com,1985-05-02,Masculino,Itaquaquecetuba,Doutorado,10.0,12,40
+178,Pietra Vasconcelos,pietra.v@example.com,1999-03-07,Feminino,Mogi das Cruzes,Superior Completo,4.0,2,26
+179,Ravi Werner,ravi.werner@gmail.com,1990-01-11,Masculino,Piracicaba,Superior Completo,5.0,6,35
+180,Stella Xavier,stella.xavier@yahoo.com,1982-11-15,Feminino,São Vicente,Mestrado,8.0,11,43
+181,Theo Yoda,theo.yoda@hotmail.com,1995-09-19,Masculino,Guarujá,Pós-graduação,2.0,7,30
+182,Valentina Zaganelli,valentina.z@gmail.com,1997-07-24,Feminino,Taubaté,Técnico,3.0,2,28
+183,Arthur Arantes,arthur.arantes@example.com,1987-05-29,Masculino,Limeira,Superior Completo,4.0,5,38
+184,Bárbara Bastos,barbara.bastos@yahoo.com.br,1993-03-03,Feminino,Suzano,Ensino Médio,0.0,1,32
+185,Caio Carvalho,caio.carvalho@hotmail.com,1980-01-07,Masculino,Barueri,Doutorado,11.0,14,45
+186,Débora Dutra,debora.dutra@gmail.com,1996-11-11,Feminino,Embu das Artes,Mestrado,6.0,9,29
+187,Enzo Esteves,enzo.esteves@empresa.com,1989-09-15,Masculino,Cotia,Pós-graduação,1.0,8,36
+188,Flávia Fagundes,flavia.fagundes@example.com,1994-07-20,Feminino,Indaiatuba,Superior Completo,5.0,4,31
+189,Guilherme Guedes,guilherme.guedes@gmail.com,1981-05-25,Masculino,Americana,Superior Completo,4.0,6,44
+190,Heloísa Henriques,heloisa.h@yahoo.com,1998-03-30,Feminino,Hortolândia,Técnico,2.0,2,27
+191,Igor Inácio,igor.inacio@hotmail.com,1984-01-03,Masculino,Jacareí,Mestrado,7.0,10,41
+192,Júlia Jalles,julia.jalles@gmail.com,1992-11-07,Feminino,Araraquara,Ensino Médio,0.0,0,33
+193,Kléber Kramer,kleber.kramer@example.com,1979-09-11,Masculino,Presidente Prudente,Doutorado,13.0,15,46
+194,Lorena Lins,lorena.lins@empresa.com,1997-07-16,Feminino,Franca,Superior Completo,4.0,3,28
+195,Miguel Meireles,miguel.meireles@gmail.com,1986-05-21,Masculino,Itu,Pós-graduação,2.0,7,39
+196,Natália Nogueira,natalia.nogueira@yahoo.com.br,1995-03-26,Feminino,Bragança Paulista,Superior Completo,5.0,5,30
+197,Otávio Otero,otavio.otero@hotmail.com,1988-01-30,Masculino,Pindamonhangaba,Mestrado,8.0,11,37
+198,Priscila Pires,priscila.pires@gmail.com,1993-11-04,Feminino,Salto,Superior Completo,4.0,4,32
+199,Ricardo Quintanilha,ricardo.q@example.com,1980-09-08,Masculino,Atibaia,Técnico,3.0,2,45
+200,Sônia Ramos,sonia.ramos@gmail.com,1996-07-13,Feminino,Valinhos,Ensino Médio,0.0,1,29
+201,Thiago Santoro,thiago.santoro@hotmail.com,1983-05-18,Masculino,Itatiba,Doutorado,10.0,13,42
+202,Úrsula Siqueira,ursula.siqueira@yahoo.com,1991-03-23,Feminino,Sertãozinho,Pós-graduação,1.0,8,34
+203,Vinícius Tavares,vinicius.t@gmail.com,1998-01-27,Masculino,Catanduva,Superior Completo,4.0,3,27
+204,Wanessa Uchoa,wanessa.uchoa@empresa.com,1985-11-01,Feminino,Votorantim,Mestrado,7.0,9,40
+205,Yuri Vasconcelos,yuri.v@example.com,1994-09-05,Masculino,Guaratinguetá,Superior Completo,5.0,6,31
+206,Yasmin Werner,yasmin.werner@gmail.com,1982-07-10,Feminino,Birigui,Técnico,2.0,2,43
+207,Ziraldo Xavier,ziraldo.xavier@hotmail.com,1997-05-15,Masculino,Tatuí,Ensino Médio,0.0,0,28
+208,Agatha Yoda,agatha.yoda@yahoo.com.br,1987-03-20,Feminino,Jaú,Doutorado,12.0,14,38
+209,Bento Zaganelli,bento.zaganelli@gmail.com,1993-01-24,Masculino,Botucatu,Pós-graduação,2.0,7,32
+210,Ceci Arantes,ceci.arantes@example.com,1980-11-28,Feminino,Ourinhos,Superior Completo,4.0,5,45
+211,Dante Bastos,dante.bastos@hotmail.com,1996-09-02,Masculino,Assis,Mestrado,6.0,10,29
+212,Elisa Carvalho,elisa.carvalho@gmail.com,1989-07-07,Feminino,Avaré,Superior Completo,5.0,4,36
+213,Fábio Dutra,fabio.dutra@empresa.com,1994-05-12,Masculino,Leme,Técnico,3.0,2,31
+214,Gael Esteves,gael.esteves@example.com,1981-03-17,Masculino,Matão,Ensino Médio,0.0,1,44
+215,Helena Fagundes,helena.fagundes@gmail.com,1998-01-21,Feminino,Bebedouro,Doutorado,11.0,13,27
+216,Ícaro Guedes,icaro.guedes@yahoo.com,1984-11-25,Masculino,Jaboticabal,Pós-graduação,1.0,8,41
+217,Janaína Henriques,janaina.h@hotmail.com,1992-09-29,Feminino,Cruzeiro,Superior Completo,4.0,4,33
+218,Luan Inácio,luan.inacio@gmail.com,1979-07-04,Masculino,Lorena,Mestrado,8.0,11,46
+219,Melissa Jalles,melissa.jalles@example.com,1997-05-09,Feminino,Lençóis Paulista,Superior Completo,4.0,3,28
+220,Noah Kramer,noah.kramer@empresa.com,1986-03-14,Masculino,Mococa,Técnico,2.0,2,39
+221,Pietra Lins,pietra.lins@gmail.com,1995-01-18,Feminino,Tupã,Ensino Médio,0.0,0,30
+222,Ravi Meireles,ravi.meireles@yahoo.com.br,1988-11-22,Masculino,Penápolis,Doutorado,13.0,15,37
+223,Stella Nogueira,stella.nogueira@hotmail.com,1993-09-26,Feminino,Andradina,Pós-graduação,2.0,7,32
+224,Theo Otero,theo.otero@gmail.com,1980-07-01,Masculino,Garça,Superior Completo,5.0,5,45
+225,Valentina Pires,valentina.pires@example.com,1996-05-06,Feminino,Dracena,Mestrado,7.0,9,29
+226,Arthur Quintanilha,arthur.q@gmail.com,1989-03-11,Masculino,Registro,Superior Completo,4.0,6,36
+227,Bárbara Ramos,barbara.ramos@hotmail.com,1994-01-15,Feminino,Adamantina,Técnico,3.0,1,31
+228,Caio Santoro,caio.santoro@yahoo.com,1981-11-19,Masculino,Lins,Ensino Médio,0.0,1,44
+229,Débora Siqueira,debora.siqueira@gmail.com,1998-09-23,Feminino,Presidente Venceslau,Doutorado,10.0,12,27
+230,Enzo Tavares,enzo.tavares@empresa.com,1984-07-28,Masculino,Batatais,Pós-graduação,1.0,8,41
+231,Flávia Uchoa,flavia.uchoa@example.com,1992-05-02,Feminino,Orlândia,Superior Completo,4.0,4,33
+232,Guilherme Vasconcelos,guilherme.v@gmail.com,1979-03-07,Masculino,Serrana,Mestrado,8.0,10,46
+233,Heloísa Werner,heloisa.werner@hotmail.com,1997-01-11,Feminino,Pontal,Superior Completo,5.0,5,28
+234,Igor Xavier,igor.xavier@yahoo.com.br,1986-11-15,Masculino,Monte Alto,Técnico,2.0,2,39
+235,Júlia Yoda,julia.yoda@gmail.com,1995-09-19,Feminino,Pitangueiras,Ensino Médio,0.0,0,30
+236,Kléber Zaganelli,kleber.zaganelli@example.com,1988-07-24,Masculino,Brodowski,Doutorado,12.0,14,37
+237,Lorena Arantes,lorena.arantes@empresa.com,1993-05-29,Feminino,Cravinhos,Pós-graduação,2.0,7,32
+238,Miguel Bastos,miguel.bastos@gmail.com,1980-03-03,Masculino,Jardinópolis,Superior Completo,4.0,3,45
+239,Natália Carvalho,natalia.carvalho@hotmail.com,1996-01-07,Feminino,Altinópolis,Mestrado,6.0,9,29
+240,Otávio Dutra,otavio.dutra@yahoo.com,1989-11-11,Masculino,Batatais,Superior Completo,5.0,6,36
+241,Priscila Esteves,priscila.esteves@gmail.com,1994-09-15,Feminino,Cajuru,Técnico,3.0,1,31
+242,Ricardo Fagundes,ricardo.fagundes@example.com,1981-07-20,Masculino,Santa Rosa de Viterbo,Ensino Médio,0.0,1,44
+243,Sônia Guedes,sonia.guedes@hotmail.com,1998-05-25,Feminino,São Simão,Doutorado,11.0,13,27
+244,Thiago Henriques,thiago.henriques@gmail.com,1984-03-30,Masculino,Serra Azul,Pós-graduação,1.0,8,41
+245,Úrsula Inácio,ursula.inacio@empresa.com,1992-01-03,Feminino,Luís Antônio,Superior Completo,4.0,4,33
+246,Vinícius Jalles,vinicius.jalles@yahoo.com.br,1979-11-07,Masculino,Guatapará,Mestrado,8.0,10,46
+247,Wanessa Kramer,wanessa.kramer@gmail.com,1997-09-11,Feminino,Dumont,Superior Completo,5.0,5,28
+248,Yuri Lins,yuri.lins@example.com,1986-07-16,Masculino,Pradópolis,Técnico,2.0,2,39
+249,Yasmin Meireles,yasmin.meireles@hotmail.com,1995-05-21,Feminino,Guariba,Ensino Médio,0.0,0,30
+250,Ziraldo Nogueira,ziraldo.nogueira@gmail.com,1988-03-26,Masculino,Taquaritinga,Doutorado,13.0,15,37

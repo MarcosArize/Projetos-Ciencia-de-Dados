@@ -1,0 +1,251 @@
+id_entrevista,id_candidatura,entrevistador,data_entrevista,nota,feedback,tempo_entrevista
+1,1,Ana Silva,2024-09-24,7.96,Ótimo conhecimento em backend; demonstrou arquitetura e testes adequados.,323
+2,2,Bruno Costa,2024-11-27,2.66,Conceitos de ETL pouco sólidos; mostrou dificuldade em modelagem e performance.,259
+3,3,Carla Mendes,2024-12-14,8.21,Domínio em frontend e usabilidade; código limpo e bem organizado.,242
+4,4,Diego Rocha,2025-01-28,5.82,Pouca experiência prática em automação; abordagens de teste não foram suficientes.,197
+5,5,Eduardo Lima,2025-03-18,7.9,Experiência prática em DevOps e infraestrutura; sólido entendimento de pipelines.,148
+6,6,Fernanda Souza,2025-05-26,4.52,Metodologia de ML fraca; resultados sem validação estatística adequada.,79
+7,7,Gabriel Pereira,2025-06-30,7.35,Domínio em frontend e usabilidade; código limpo e bem organizado.,44
+8,8,Helena Castro,2025-08-01,4.97,Portfólio limitado; problemas em justificar decisões de design.,12
+9,9,Igor Ramos,2025-08-15,6.14,Boa postura para estágio; precisa de treinamento prático.,-2
+10,10,Juliana Alves,2024-09-23,3.66,Planejamento e comunicação inconsistentes; pouca experiência em coordenação de times.,324
+11,11,Luís Oliveira,2024-12-04,8.25,Ótimo raciocínio lógico e experiência prática relevante.,252
+12,12,Marina Santos,2024-12-16,3.87,Conceitos de engenharia de dados insuficientes para a vaga.,240
+13,13,Ana Silva,2025-01-26,8.26,Domínio em frontend e usabilidade; código limpo e bem organizado.,199
+14,14,Bruno Costa,2025-03-23,3.01,Pouca experiência prática em automação; abordagem incompleta em testes.,143
+15,15,Carla Mendes,2025-06-02,8.59,Experiência prática em DevOps e infraestrutura; sólido entendimento de pipelines.,72
+16,16,Diego Rocha,2025-07-09,4.29,Metodologia de ML fraca; falta de validação em resultados.,35
+17,17,Eduardo Lima,2025-08-06,8.4,Versátil; demonstra competência tanto em backend quanto frontend.,7
+18,18,Fernanda Souza,2025-08-15,4.03,Portfólio limitado; problemas em justificar decisões de design.,-2
+19,19,Gabriel Pereira,2024-09-19,8.09,Boa postura para estágio; aprendizado rápido e disposição prática.,328
+20,20,Helena Castro,2024-12-02,3.64,Planejamento e comunicação inconsistentes; pouca experiência em coordenação de times.,254
+21,21,Igor Ramos,2024-12-18,7.31,Bom entendimento em support; postura adequada para posição júnior.,238
+22,22,Juliana Alves,2025-01-25,3.32,Conceitos de ETL pouco sólidos; mostrou dificuldade em modelagem e performance.,200
+23,23,Luís Oliveira,2025-03-17,8.12,Domínio em frontend e usabilidade; contribuição técnica relevante.,149
+24,24,Marina Santos,2025-06-05,3.95,Pouca experiência prática em automação; abordagem incompleta em testes.,69
+25,25,Ana Silva,2025-07-08,8.02,Experiência prática em DevOps e infraestrutura; sólido entendimento de pipelines.,36
+26,26,Bruno Costa,2025-08-12,4.58,Metodologia de ML fraca; falta de validação em resultados.,1
+27,27,Carla Mendes,2025-08-10,8.33,Versátil; demonstra competência tanto em backend quanto frontend.,3
+28,28,Diego Rocha,2024-09-24,3.05,Portfólio limitado; problemas em justificar decisões de design.,323
+29,29,Eduardo Lima,2024-12-03,7.94,Boa postura para estágio; entrega consistente em atividades práticas.,253
+30,30,Fernanda Souza,2024-12-17,3.54,Planejamento e comunicação inconsistentes; pouca experiência em coordenação de times.,239
+31,31,Gabriel Pereira,2025-01-27,8.04,Sólida formação; bom fit com necessidades do time.,198
+32,32,Helena Castro,2025-03-24,3.9,Conceitos de engenharia de dados insuficientes para a vaga.,142
+33,33,Igor Ramos,2025-06-05,8.22,Domínio em frontend e usabilidade; contribuição positiva para a equipe.,69
+34,34,Juliana Alves,2025-07-01,3.59,Pouca experiência prática em automação; abordagem incompleta em testes.,43
+35,35,Luís Oliveira,2025-09-02,8.85,Experiência prática em DevOps e infraestrutura; liderança técnica.,-20
+36,36,Marina Santos,2025-08-15,3.9,Metodologia de ML fraca; falta de validação em resultados.,-2
+37,37,Ana Silva,2024-09-19,8.03,Versátil; demonstra competência tanto em backend quanto frontend.,328
+38,38,Bruno Costa,2024-11-30,3.9,Portfólio limitado; dificuldades ao justificar escolhas de design.,256
+39,39,Carla Mendes,2024-12-20,8.31,Boa postura para estágio; entrega consistente e vontade de aprender.,236
+40,40,Diego Rocha,2025-01-25,3.96,Planejamento e comunicação inconsistentes; pouca experiência em coordenação de times.,200
+41,41,Eduardo Lima,2025-03-17,8.13,Ótimo conhecimento em backend; entrega técnica consistente.,149
+42,42,Fernanda Souza,2025-06-02,3.72,Conceitos de ETL pouco sólidos; mostrou dificuldade em modelagem e performance.,72
+43,43,Gabriel Pereira,2025-07-05,8.02,Domínio em frontend e usabilidade; muito boa comunicação.,39
+44,44,Helena Castro,2025-08-03,3.43,Pouca experiência prática em automação; abordagens de teste não foram suficientes.,10
+45,45,Igor Ramos,2025-08-10,8.89,Experiência prática em DevOps e infraestrutura; sólido entendimento de pipelines.,3
+46,46,Juliana Alves,2024-09-28,3.34,Planejamento e comunicação inconsistentes; pouca experiência em coordenação de times.,319
+47,47,Luís Oliveira,2024-11-28,8.3,Versátil; demonstra competência tanto em backend quanto frontend.,258
+48,48,Marina Santos,2024-12-10,3.58,Portfólio limitado; dificuldades ao justificar escolhas de design.,246
+49,49,Ana Silva,2025-01-24,8.16,Boa postura para estágio; rápido aprendizado e colaboração.,201
+50,50,Bruno Costa,2025-03-16,3.96,Planejamento e comunicação inconsistentes; pouca experiência em coordenação de times.,150
+51,51,Carla Mendes,2025-06-08,8.61,Sólida formação e entregas de qualidade; boa comunicação técnica.,66
+52,52,Diego Rocha,2025-07-10,4.46,Conceitos de ETL pouco sólidos; mostrou dificuldade em modelagem e performance.,34
+53,53,Eduardo Lima,2025-08-05,8.12,Domínio em frontend e usabilidade; entrega técnica relevante.,8
+54,54,Fernanda Souza,2025-08-11,3.52,Metodologia de ML fraca; falta de validação em resultados.,2
+55,55,Gabriel Pereira,2024-09-14,8.01,Experiência prática em DevOps e infraestrutura; sólido entendimento de pipelines.,333
+56,56,Helena Castro,2024-12-01,3.98,Portfólio limitado; dificuldades ao justificar escolhas de design.,255
+57,57,Igor Ramos,2024-12-19,8.33,Versátil; demonstra competência tanto em backend quanto frontend.,237
+58,58,Juliana Alves,2025-01-25,3.41,Planejamento e comunicação inconsistentes; pouca experiência em coordenação de times.,200
+59,59,Luís Oliveira,2025-03-20,8.19,Boa postura para estágio; entrega consistente e atenção a detalhes.,146
+60,60,Marina Santos,2025-05-29,3.67,Conceitos de ETL pouco sólidos; mostrou dificuldade em modelagem e performance.,76
+61,61,Ana Silva,2025-07-07,8.07,Ótimo conhecimento em backend; capacidade de entrega e testes adequados.,37
+62,62,Bruno Costa,2025-08-10,3.74,Planejamento e comunicação inconsistentes; pouca experiência em coordenação de times.,3
+63,63,Carla Mendes,2025-08-27,8.32,Domínio em frontend e usabilidade; entrega de qualidade.,-14
+64,64,Diego Rocha,2024-09-20,3.52,Pouca experiência prática em automação; abordagens de teste não foram suficientes.,327
+65,65,Eduardo Lima,2024-12-03,8.63,Experiência prática em DevOps e infraestrutura; ótima capacidade técnica.,253
+66,66,Fernanda Souza,2024-12-20,3.35,Metodologia de ML fraca; falta de validação em resultados.,236
+67,67,Gabriel Pereira,2025-01-27,8.19,Versátil; demonstra competência tanto em backend quanto frontend.,198
+68,68,Helena Castro,2025-03-12,3.96,Portfólio limitado; dificuldades ao justificar escolhas de design.,154
+69,69,Igor Ramos,2025-06-10,8.51,Boa postura para estágio; entrega consistente e vontade de aprender.,64
+70,70,Juliana Alves,2025-07-03,3.97,Planejamento e comunicação inconsistentes; pouca experiência em coordenação de times.,41
+71,71,Luís Oliveira,2025-08-06,8.0,Sólida formação e entregas de qualidade; bom fit cultural.,7
+72,72,Marina Santos,2025-08-15,3.88,Conceitos de ETL pouco sólidos; mostrou dificuldade em modelagem e performance.,-2
+73,73,Ana Silva,2024-09-23,8.24,Domínio em frontend e usabilidade; entrega de qualidade.,324
+74,74,Bruno Costa,2024-11-29,3.17,Portfólio limitado; dificuldades ao justificar escolhas de design.,257
+75,75,Carla Mendes,2024-12-16,8.52,Experiência prática em DevOps e infraestrutura; boa execução.,240
+76,76,Diego Rocha,2025-01-28,3.05,Metodologia de ML fraca; falta de validação em resultados.,197
+77,77,Eduardo Lima,2025-03-19,8.05,Versátil; demonstra competência tanto em backend quanto frontend.,147
+78,78,Fernanda Souza,2025-05-25,4.82,Portfólio limitado; dificuldades ao justificar escolhas de design.,80
+79,79,Gabriel Pereira,2025-06-29,8.33,Boa postura para estágio; entrega consistente e atenção a detalhes.,45
+80,80,Helena Castro,2025-08-12,3.35,Planejamento e comunicação inconsistentes; pouca experiência em coordenação de times.,1
+81,81,Igor Ramos,2025-08-15,8.79,Experiência prática em DevOps e infraestrutura; capacidade de entrega.,-2
+82,82,Juliana Alves,2024-09-18,3.05,Conceitos de ETL pouco sólidos; mostrou dificuldade em modelagem e performance.,329
+83,83,Luís Oliveira,2024-12-08,8.21,Domínio em frontend e usabilidade; entrega de qualidade.,248
+84,84,Marina Santos,2024-12-17,3.86,Pouca experiência prática em automação; abordagens de teste não foram suficientes.,239
+85,85,Ana Silva,2025-01-22,8.26,Experiência prática em DevOps e infraestrutura; performance consistente.,203
+86,86,Bruno Costa,2025-03-18,3.05,Planejamento e comunicação inconsistentes; pouca experiência em coordenação de times.,148
+87,87,Carla Mendes,2025-06-10,8.26,Versátil; demonstra competência tanto em backend quanto frontend.,64
+88,88,Diego Rocha,2025-07-09,3.02,Portfólio limitado; dificuldades ao justificar escolhas de design.,35
+89,89,Eduardo Lima,2025-08-14,8.06,Boa postura para estágio; entrega consistente e vontade de aprender.,-1
+90,90,Fernanda Souza,2025-08-12,3.08,Planejamento e comunicação inconsistentes; pouca experiência em coordenação de times.,1
+91,91,Gabriel Pereira,2024-09-21,8.3,Versátil; demonstra competência tanto em backend quanto frontend.,326
+92,92,Helena Castro,2024-12-04,3.1,Portfólio limitado; dificuldades ao justificar escolhas de design.,252
+93,93,Igor Ramos,2024-12-29,8.53,Boa postura para estágio; entrega consistente e atenção a detalhes.,227
+94,94,Juliana Alves,2025-01-31,3.04,Pouca experiência prática em automação; abordagens de teste não foram suficientes.,194
+95,95,Luís Oliveira,2025-03-16,8.05,Experiência prática em DevOps e infraestrutura; sólido entendimento de pipelines.,150
+96,96,Marina Santos,2025-05-30,3.5,Metodologia de ML fraca; falta de validação em resultados.,75
+97,97,Ana Silva,2025-07-09,8.09,Versátil; demonstra competência tanto em backend quanto frontend.,35
+98,98,Bruno Costa,2025-08-13,4.38,Portfólio limitado; dificuldades ao justificar escolhas de design.,0
+99,99,Carla Mendes,2025-08-15,8.71,Boa postura para estágio; entrega consistente e vontade de aprender.,-2
+100,100,Diego Rocha,2024-09-24,3.19,Planejamento e comunicação inconsistentes; pouca experiência em coordenação de times.,323
+101,101,Ana Silva,2024-05-15,8.5,Candidato demonstrou excelente conhecimento técnico em React e Node.js. Boa comunicação e fit cultural.,455
+102,103,Bruno Costa,2024-06-05,9.8,Experiência sólida em gerenciamento de projetos. Apresentou cases de sucesso e demonstrou liderança. Contratação recomendada.,434
+103,104,Carla Mendes,2024-04-20,6.0,"Conhecimento básico em SEO, mas faltou profundidade em estratégias de performance. Não avançar.",480
+104,105,Diego Rocha,2024-05-25,7.5,"Bom conhecimento teórico em arquitetura de cloud, mas pouca experiência prática com os desafios propostos.",445
+105,107,Eduardo Lima,2024-06-10,9.0,Candidato sênior com vasta experiência em Machine Learning. Perfil excelente para a vaga.,429
+106,109,Fernanda Souza,2024-05-18,9.2,"Ótimo desenvolvedor Java, resolveu o desafio técnico com eficiência. Perfil proativo.",452
+107,111,Gabriel Pereira,2024-06-15,8.0,Experiência relevante na área financeira. Demonstrou organização e atenção aos detalhes.,424
+108,113,   Helena Castro,2024-05-30,7.0,"Conhecimento técnico adequado, mas a comunicação foi um pouco confusa. Avaliar na próxima fase.",440
+109,115,Igor Ramos,2024-06-14,9.5,Especialista em AWS com profundo conhecimento. Apresentou soluções inovadoras durante a conversa. Recomendo fortemente.,425
+110,116,Juliana Alves,2024-03-20,8.8,Portfólio criativo e alinhado com as tendências de UI/UX. Ótima habilidade de comunicação.,511
+111,117,Luís Oliveira,2024-05-14,5.5,Faltou experiência com metodologias ágeis em projetos de grande escala.,456
+112,119,Marina Santos,2024-06-20,7.8,"Bom programador .NET, mas demonstrou alguma dificuldade com conceitos de arquitetura de software.",419
+113,121,Eduardo Lima,2024-06-04,9.7,Excelente conhecimento em todo o pipeline de dados. Experiência com Spark e Hadoop comprovada. Contratar.,435
+114,122,Ana Silva,2024-04-02,6.5,"Candidata com bom potencial, mas ainda precisa desenvolver mais a parte analítica para a área de logística.",498
+115,123,Igor Ramos,2024-06-12,8.2,Sólidos conhecimentos em segurança da informação. Precisa aprofundar em pentest de aplicações mobile.,427
+116,125,Carla Mendes,2024-05-20,9.0,Especialista em Inbound Marketing com resultados comprovados. Ótimo fit com a equipe.,450
+117,127,Bruno Costa,2024-06-22,8.12,Candidato não compareceu à entrevista.,417
+118,129,Fernanda Souza,2024-05-08,7.0,Desenvolvedor Python com bom raciocínio lógico. Falta um pouco de experiência com projetos maiores.,462
+119,130,Diego Rocha,2024-03-25,9.6,DBA muito experiente e qualificado. Dominou todas as questões técnicas. Contratação certa.,506
+120,132,Gabriel Pereira,2024-05-05,8.0,Contador organizado e com bom conhecimento da legislação fiscal.,465
+121,133,Eduardo Lima,2024-05-24,8.5,Background acadêmico forte. Boa capacidade de aplicar modelos estatísticos em problemas de negócio.,446
+122,134,Bruno Costa,2024-03-01,4.0,Experiência não compatível com a senioridade da vaga de Gerente de Produto.,530
+123,136,Ana Silva,2024-04-18,9.1,Excelente desenvolvedor front-end. Código limpo e performático no desafio. Ótima contratação.,482
+124,137,Igor Ramos,2024-06-03,7.5,"Bom analista de infraestrutura, mas precisa se atualizar em tecnologias de containerização.",436
+125,140,Fernanda Souza,2024-03-10,6.8,"Conhece bem Kotlin, mas demonstrou dificuldade em conceitos de arquitetura Android (MVVM).",521
+126,141,Helena Castro,2024-05-10,7.2,Técnica de laboratório competente e cuidadosa com os procedimentos.,460
+127,142,Luís Oliveira,2024-02-22,9.3,Scrum Master com ótima didática e habilidade para resolver conflitos. Perfeito para o time.,538
+128,143,Igor Ramos,2024-06-18,5.0,"Candidato com experiência, mas não demonstrou interesse e engajamento durante a entrevista.",421
+129,145,Eduardo Lima,2024-05-28,8.8,Pesquisadora com excelente background técnico e científico. Grande potencial de contribuição.,442
+130,146,Ana Silva,2024-04-05,7.5,Bom desenvolvedor Rails. O código do teste poderia ser mais otimizado.,495
+131,147,Juliana Alves,2024-06-12,8.4,Designer com ótima visão de produto e foco no usuário. Boas ideias e argumentação.,427
+132,148,Diego Rocha,2024-02-08,6.0,"Conhecimento em SQL Server, mas não demonstrou experiência com otimização de performance.",552
+133,149,Gabriel Pereira,2024-05-22,9.0,Comprador com excelente habilidade de negociação. Conseguiu demonstrar como gerou economia em experiências passadas.,448
+134,150,Luís Oliveira,2024-04-12,8.7,"Agile Coach experiente, com boa visão estratégica sobre transformação cultural.",488
+135,152,Carla Mendes,2024-03-18,7.9,"Boa analista de social media, criativa, mas precisa aprofundar em análise de dados e ROI.",513
+136,153,Fernanda Souza,2024-05-14,8.1,Desenvolvedor iOS competente. Apresentou um portfólio sólido na App Store.,456
+137,154,Eduardo Lima,2024-02-26,9.4,Especialista em BI que domina Power BI. Criou um dashboard impressionante no desafio técnico.,534
+138,156,Helena Castro,2024-05-02,8.3,Cientista de alimentos com bom conhecimento técnico sobre desenvolvimento de produtos.,468
+139,157,Bruno Costa,2024-05-30,7.7,"Bom Product Owner, mas precisa melhorar a forma como prioriza o backlog com base em métricas.",440
+140,158,Ana Silva,2024-03-07,8.0,Engenheiro de software com boa visão de arquitetura. A comunicação pode ser mais clara.,524
+141,160,Carla Mendes,2024-06-08,9.0,Assessor de imprensa com ótima rede de contatos e comunicação assertiva.,431
+142,161,Igor Ramos,2024-04-20,7.6,"Analista de redes com boa certificação, mas precisa de mais experiência prática com firewalls de nova geração.",480
+143,162,Fernanda Souza,2024-05-16,6.2,"Candidato estudando Go, mas sem experiência profissional relevante para a vaga.",454
+144,164,Eduardo Lima,2024-06-25,8.9,Físico com uma capacidade analítica impressionante. Raciocínio rápido e profundo.,414
+145,165,Bruno Costa,2024-03-29,8.2,Gerente de inovação com boas ideias e conhecimento do ecossistema de startups.,502
+146,166,Ana Silva,2024-06-05,9.2,Engenheiro de QA muito detalhista e com ótima skill em automação. Contratar.,434
+147,167,Carla Mendes,2024-04-15,7.8,"Boa analista de comunicação, mas precisa de mais experiência com métricas de engajamento interno.",485
+148,168,Diego Rocha,2024-01-25,8.12,Feedback pendente do gestor.,566
+149,170,Fernanda Souza,2024-03-22,7.0,Experiência específica em C++ para sistemas embarcados. Perfil de nicho.,509
+150,171,Helena Castro,2024-05-19,8.1,Técnico dedicado e com bom conhecimento em equipamentos eletrônicos hospitalares.,451
+151,172,Gabriel Pereira,2024-03-04,8.8,Estagiário com muita vontade de aprender e proativo. Inglês fluente. Ótimo potencial.,527
+152,173,Bruno Costa,2024-06-28,9.9,"Candidato extremamente qualificado, com visão estratégica de produto e liderança inspiradora. Mover para proposta.",411
+153,174,Juliana Alves,2024-04-25,7.5,"Boa UX Writer, mas o portfólio é focado em produtos B2C e a vaga é B2B.",475
+154,175,Igor Ramos,2024-05-10,7.0,"Analista de suporte com boa comunicação, mas conhecimento técnico superficial para N2.",460
+155,177,Eduardo Lima,2024-06-18,8.6,Engenheiro químico com sólida experiência em processos. Demonstrou grande capacidade de resolução de problemas.,421
+156,178,Ana Silva,2024-03-14,7.2,"Bom desenvolvedor Unity, mas precisa melhorar as práticas de versionamento de código.",517
+157,179,Carla Mendes,2024-05-27,9.1,Profissional de Relações Públicas muito articulada e com experiência em grandes eventos. Excelente.,443
+158,180,Diego Rocha,2024-02-21,8.8,"Arquiteto de dados experiente, com visão clara sobre governança e modelagem de dados.",539
+159,181,Bruno Costa,2024-07-02,6.5,"Experiência em CS, mas com foco excessivo em suporte reativo e pouco em proatividade e sucesso do cliente.",407
+160,183,Fernanda Souza,2024-05-25,8.3,Desenvolvedor Salesforce certificado e com boa experiência em projetos complexos.,445
+161,185,Eduardo Lima,2024-06-15,9.4,"Pesquisador de alto nível, com publicações relevantes na área de genética. Contratação estratégica.",424
+162,186,Igor Ramos,2024-03-26,9.0,DevOps Sênior que domina CI/CD e IaC. Perfil ideal para a posição.,505
+163,187,Bruno Costa,2024-06-01,8.12,Entrevista com o gestor da área. Aguardando feedback.,438
+164,188,Juliana Alves,2024-02-10,7.0,"Ilustrador talentoso, mas o estilo artístico não é totalmente compatível com a identidade visual da empresa.",550
+165,189,Ana Silva,2024-06-22,7.8,"Candidato promissor em Rust, demonstrou paixão pela tecnologia e capacidade de aprendizado rápido.",417
+166,191,Eduardo Lima,2024-05-08,9.5,Engenheiro de ML com experiência prática em MLOps. Sabe como colocar modelos em produção e mantê-los. Contratar.,462
+167,193,Eduardo Lima,2024-07-04,9.0,Matemático com incrível capacidade de abstração e resolução de problemas complexos de otimização.,405
+168,194,Fernanda Souza,2024-03-19,6.5,"Bom desenvolvedor WordPress, mas a vaga exige conhecimento mais aprofundado em PHP e desenvolvimento de plugins do zero.",512
+169,195,Bruno Costa,2024-06-06,8.4,Gerente de parcerias com boa habilidade de negociação e networking.,433
+170,196,Carla Mendes,2024-03-06,8.9,"Jornalista com texto impecável e experiência em fact-checking, muito importante para a posição.",525
+171,197,Diego Rocha,2024-06-23,7.0,"Conhece os conceitos de FinOps, mas não demonstrou experiência em otimização de custos em larga escala.",416
+172,198,Gabriel Pereira,2024-04-22,8.0,Analista de PCP com boa experiência na indústria e conhecimento em sistemas de gestão.,478
+173,201,Eduardo Lima,2024-04-02,9.6,Especialista em materiais com conhecimento raro e valioso para nossos projetos de P&D. Recomendo a contratação imediata.,498
+174,202,Bruno Costa,2024-05-21,8.7,Profissional de RH com visão moderna e foco em cultura organizacional. Bom perfil para liderança.,449
+175,203,Ana Silva,2024-02-19,7.9,Desenvolvedor Elixir com bom conhecimento em sistemas concorrentes e funcionais.,541
+176,204,Igor Ramos,2024-06-29,6.8,"Bom conhecimento em monitoramento, mas pouca experiência com automação de resposta a incidentes.",410
+177,205,Carla Mendes,2024-05-06,8.2,Growth Hacker com mentalidade orientada a experimentos e dados. Boas ideias para alavancar o crescimento.,464
+178,208,Eduardo Lima,2024-03-25,9.3,"Geólogo muito experiente, com capacidade de analisar grandes volumes de dados geofísicos. Ótima adição ao time.",506
+179,209,Bruno Costa,2024-05-12,8.5,Gerente de vendas com perfil hunter e bom relacionamento no mercado de SaaS.,458
+180,210,Fernanda Souza,2024-03-01,8.0,"Bom desenvolvedor React Native, com portfólio de apps publicados nas duas lojas.",530
+181,211,Igor Ramos,2024-06-16,7.2,"Conhece as ferramentas de cibersegurança, mas faltou demonstrar uma abordagem mais estratégica na resolução de incidentes.",423
+182,212,Carla Mendes,2024-04-10,8.1,Produtor de conteúdo criativo e com bom domínio técnico de edição de vídeo.,490
+183,215,Eduardo Lima,2024-03-12,9.2,Oceanógrafo com experiência em modelagem computacional complexa. Perfil raro e muito qualificado.,519
+184,216,Bruno Costa,2024-05-29,8.3,Consultor de negócios com boa visão analítica e capacidade de mapear e otimizar processos.,441
+185,217,Ana Silva,2024-02-16,7.5,"Candidato entusiasmado com Kotlin Multiplatform, mas ainda com poucos projetos práticos para apresentar.",544
+186,218,Diego Rocha,2024-07-03,6.0,Candidato não conseguiu explicar com clareza os conceitos de governança de dados e seu papel como Data Steward.,406
+187,219,Juliana Alves,2024-05-02,8.6,Motion Designer com portfólio impressionante e muita criatividade. Ótimo fit técnico e cultural.,468
+188,222,Eduardo Lima,2024-04-05,9.8,Astrônomo com uma capacidade de análise de dados fora do comum. Pode trazer uma perspectiva única para o time de Data Science. Contratar.,495
+189,223,Bruno Costa,2024-05-24,9.7,Diretor de Operações com vasta experiência em escalar empresas de tecnologia. Visão estratégica e liderança comprovada.,446
+190,224,Gabriel Pereira,2024-02-24,8.2,Analista de controladoria muito organizado e com forte atenção aos detalhes. Bom conhecimento em finanças corporativas.,536
+191,225,Igor Ramos,2024-06-11,7.8,"Bom conhecimento técnico em pentest, mas a comunicação do relatório de vulnerabilidades poderia ser mais clara para um público não-técnico.",428
+192,226,Ana Silva,2024-04-18,9.1,Arquiteto de software sênior com profundo conhecimento em microserviços. Ótima entrevista técnica.,482
+193,229,Eduardo Lima,2024-03-15,8.9,Cientista social com excelente capacidade de pesquisa qualitativa e análise de dados. Perfil complementar para o time.,516
+194,230,Bruno Costa,2024-06-02,8.5,Gerente de CX com paixão pelo cliente e boas estratégias para melhorar a experiência.,437
+195,231,Fernanda Souza,2024-02-09,8.0,Desenvolvedor Flutter que entregou o desafio técnico com qualidade e dentro do prazo.,551
+196,232,Diego Rocha,2024-06-19,6.5,"Candidato conhece os conceitos de governança de dados, mas não tem experiência na implementação de ferramentas e políticas.",420
+197,233,Juliana Alves,2024-04-28,8.8,UX Researcher com ótima habilidade para conduzir entrevistas e extrair insights valiosos dos usuários.,472
+198,236,Eduardo Lima,2024-03-22,9.7,Neurocientista com um background impressionante em análise de sinais. Pode revolucionar nossa abordagem em alguns projetos. Contratar.,509
+199,237,Bruno Costa,2024-05-10,8.0,Consultor de implantação com boa comunicação e experiência em gestão de projetos de ERP.,460
+200,238,Igor Ramos,2024-03-02,8.2,SRE com boa experiência em observabilidade e cultura de blameless post-mortems.,529
+201,239,Igor Ramos,2024-06-26,7.0,"Bom hacker ético, mas focado apenas em encontrar falhas, com pouca sugestão de como corrigi-las de forma sistêmica.",413
+202,240,Carla Mendes,2024-04-14,8.3,"Analista de SEO técnico muito bom, identificou vários pontos de melhoria em nosso site durante a entrevista.",486
+203,243,Eduardo Lima,2024-03-30,9.0,Antropólogo com uma visão fascinante sobre comportamento do consumidor. Pode agregar muito ao time de produto e marketing.,501
+204,244,Bruno Costa,2024-05-26,8.6,Key Account Manager com excelente relacionamento interpessoal e foco em resultados.,444
+205,245,Ana Silva,2024-02-25,7.7,"Desenvolvedor com bons conhecimentos em Solidity, mas precisa de mais experiência em projetos Web3 em produção.",535
+206,246,Diego Rocha,2024-06-13,5.5,"Candidato usou muitos jargões, mas não conseguiu explicar de forma clara o que é um Mestre de Dados e quais seriam suas responsabilidades.",426
+207,247,Juliana Alves,2024-04-23,8.7,Arquiteto da Informação muito metódico e organizado. Apresentou um ótimo case de reestruturação de um portal complexo.,477
+208,250,Eduardo Lima,2024-03-09,9.5,Especialista em PLN com doutorado na área. Conhecimento técnico muito acima da média. Contratação recomendada.,522
+209,101,Bruno Costa,2024-05-22,8.8,Segunda entrevista com o gestor. Candidato aprovado. Alinhado tecnicamente e culturalmente.,448
+210,109,Luís Oliveira,2024-05-25,9.0,Entrevista final. O candidato demonstrou grande potencial e alinhamento com os valores da empresa. Avançar para proposta.,445
+211,115,Bruno Costa,2024-06-19,9.6,Entrevista com o diretor da área. Candidato aprovado com louvor. Perfil estratégico.,420
+212,121,Bruno Costa,2024-06-10,9.5,Entrevista de fit cultural. Candidato demonstrou ser colaborativo e ter foco em resultados. Aprovado.,429
+213,125,Bruno Costa,2024-05-28,9.2,Entrevista final com a diretoria de marketing. Candidata aprovada. Excelente comunicação e visão estratégica.,442
+214,130,Bruno Costa,2024-04-01,9.8,Entrevista com o CTO. Candidato validado tecnicamente e com grande experiência. Contratar.,499
+215,136,Luís Oliveira,2024-04-25,9.3,Entrevista cultural. Demonstrou ser um ótimo colega de equipe e ter paixão por desenvolvimento. Aprovado.,475
+216,142,Bruno Costa,2024-02-29,9.5,Entrevista com líderes de outras equipes. Ótimo feedback sobre sua capacidade de colaboração e facilitação. Contratar.,531
+217,149,Bruno Costa,2024-05-29,9.1,Entrevista final com o gestor da área de suprimentos. Aprovado. Habilidade de negociação confirmada.,441
+218,154,Bruno Costa,2024-03-04,9.5,Entrevista com o Head de Dados. Candidato demonstrou ser o especialista que procurávamos. Aprovado.,527
+219,160,Bruno Costa,2024-06-14,9.0,Entrevista com o Diretor de Comunicação. Aprovado. Perfil sênior e estratégico.,425
+220,166,Luís Oliveira,2024-06-11,9.4,Entrevista final. Candidato muito motivado e com grande atenção aos detalhes. Contratar.,428
+221,172,Bruno Costa,2024-03-10,9.0,Entrevista com o time. Ótima integração e proatividade. Aprovado para o estágio.,521
+222,179,Bruno Costa,2024-06-03,9.3,Entrevista final. Candidata demonstrou grande senioridade e fit com a cultura. Aprovada.,436
+223,185,Bruno Costa,2024-06-21,9.6,Entrevista com o líder de P&D. Candidato aprovado. Conhecimento técnico muito diferenciado.,418
+224,191,Bruno Costa,2024-05-15,9.7,Entrevista final. Candidato demonstrou ser um profissional de ponta em MLOps. Contratar.,455
+225,196,Bruno Costa,2024-03-13,9.0,Entrevista com a editora-chefe. Aprovada. Excelente texto e senso crítico.,518
+226,201,Bruno Costa,2024-04-09,9.8,Entrevista final. Candidato é uma referência na sua área. Contratação estratégica para o futuro da empresa.,491
+227,208,Bruno Costa,2024-04-01,9.5,Entrevista com o time de geologia. Aprovado. Grande capacidade de colaboração e ensino.,499
+228,215,Bruno Costa,2024-03-19,9.4,Entrevista final. Aprovado. Conhecimento profundo e paixão pela área.,512
+229,222,Bruno Costa,2024-04-12,9.9,Entrevista com o CEO. Candidato aprovado. Alinhamento total com a visão de longo prazo da empresa.,488
+230,229,Bruno Costa,2024-03-22,9.0,Entrevista com o time de produto. Aprovado. Sua visão de pesquisa social foi muito elogiada.,509
+231,236,Bruno Costa,2024-03-29,9.8,Entrevista final. Aprovado. Potencial para liderar projetos de alta complexidade e inovação.,502
+232,243,Bruno Costa,2024-04-08,9.2,Entrevista com o time de marketing. Aprovado. Sua perspectiva sobre cultura e consumo foi considerada muito valiosa.,492
+233,250,Bruno Costa,2024-03-15,9.7,Entrevista final. Aprovado. Um dos melhores especialistas em PLN que já entrevistamos.,516
+234,105,Ana Silva,2024-06-01,7.8,"Segunda entrevista técnica. Demonstrou evolução, mas ainda não está no nível esperado para a vaga sênior.",438
+235,113,Luís Oliveira,2024-06-06,7.5,Entrevista de fit cultural. Candidato demonstrou ser um pouco individualista para a dinâmica do nosso time.,433
+236,119,Luís Oliveira,2024-06-27,8.0,"Segunda entrevista técnica. Conseguiu resolver o novo desafio, mostrando boa capacidade de aprendizado.",412
+237,122,Gabriel Pereira,2024-04-09,6.0,Entrevista com o gestor. Candidata não demonstrou a proatividade necessária para a área.,491
+238,133,Bruno Costa,2024-05-31,8.7,"Entrevista com o gestor. Gostou do perfil acadêmico, mas busca alguém com mais vivência de mercado.",439
+239,146,Luís Oliveira,2024-04-12,7.8,"Entrevista de fit cultural. Perfil técnico bom, mas um pouco desalinhado com os valores de colaboração da empresa.",488
+240,157,Luís Oliveira,2024-06-05,8.0,Segunda entrevista. Aprofundamos em temas de priorização e métricas. Demonstrou bom conhecimento.,434
+241,158,Luís Oliveira,2024-03-14,8.2,Entrevista cultural. Boa comunicação e alinhamento com a cultura de engenharia.,517
+242,161,Luís Oliveira,2024-04-27,7.8,Segunda entrevista. Foco em resolução de problemas de rede. Desempenho mediano.,473
+243,164,Bruno Costa,2024-07-01,9.0,Entrevista com o gestor. Ficou impressionado com a capacidade analítica. Mover para próxima fase.,408
+244,165,Luís Oliveira,2024-04-05,8.4,Entrevista cultural. Perfil inovador e colaborativo. Aprovado nesta etapa.,495
+245,173,Igor Ramos,2024-07-05,9.8,Entrevista técnica com o time de arquitetura. Validação completa do conhecimento e experiência. Recomendo.,404
+246,180,Luís Oliveira,2024-02-28,9.0,"Entrevista cultural. Perfil sênior, colaborativo e com foco em mentoria. Excelente.",532
+247,186,Luís Oliveira,2024-04-02,9.2,Entrevista cultural. Perfil mão na massa e com ótima comunicação. Aprovado.,498
+248,195,Luís Oliveira,2024-06-12,8.5,Entrevista cultural. Boa sinergia com o time comercial. Aprovado.,427
+249,202,Luís Oliveira,2024-05-28,8.9,Entrevista cultural. Visão de RH muito alinhada à nossa. Aprovado.,442
+250,209,Luís Oliveira,2024-05-19,8.8,Entrevista cultural. Perfil de liderança e foco no cliente. Aprovado.,451
