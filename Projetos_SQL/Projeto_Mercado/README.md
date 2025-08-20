@@ -1,7 +1,7 @@
 # 🗂️ Repositório: `recrutamento` — Banco de Dados para Tracking de Candidaturas (ATS simples)
 
 ## 🔎 Visão geral
-Este repositório contém um schema SQL para um banco de dados relacional (MySQL/MariaDB) chamado **`recrutamento`** do qual possui 100 linhas de dados, pensado para rastrear candidatos, candidaturas, entrevistas e experiências profissionais. Ideal como protótipo de um *Applicant Tracking System* (ATS) leve — claro, normalizado e pronto para integração com dashboards ou aplicações.
+Este repositório contém um schema SQL para um banco de dados relacional (MySQL/MariaDB) chamado **`recrutamento`**, pensado para rastrear candidatos, candidaturas, entrevistas e experiências profissionais. Ideal como protótipo de um  **Applicant Tracking System (ATS)** leve — claro, normalizado e pronto para integração com dashboards ou aplicações.
 
 ## 🗝️ Palavras-chave
 `MySQL`, `MariaDB`, `SQL`, `schema`, `database`, `ATS`, `Applicant Tracking System`, `recrutamento`, `candidatos`, `candidaturas`, `entrevistas`, `experiencias`, `modelagem de dados`, `integridade referencial`, `FK`, `pipeline de recrutamento`
@@ -47,4 +47,5 @@ O schema foi projetado para simplicidade e boa normalização. Tabelas principai
 - `data_inicio` DATE  
 - `data_fim` DATE  
 - `anos_experiencia` DECIMAL(4,2)
+
 
